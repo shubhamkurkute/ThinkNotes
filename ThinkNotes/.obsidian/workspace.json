@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/RoadMap.md",
+                "file": "Advanced Python/ADVANCED PYTHON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoadMap"
+              "title": "ADVANCED PYTHON"
             }
           },
           {
@@ -217,8 +217,8 @@
   },
   "active": "af321552e92b5f2e",
   "lastOpenFiles": [
-    "GenAI/GenAI-Simplilearn.md",
     "Roadmap/RoadMap.md",
+    "GenAI/GenAI-Simplilearn.md",
     "GenAI",
     "Advanced Python/ADVANCED PYTHON.md",
     "Advanced Python",
