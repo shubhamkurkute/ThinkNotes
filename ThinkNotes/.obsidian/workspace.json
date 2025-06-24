@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Python/ADVANCED PYTHON.md",
+                "file": "ML/22 June - Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADVANCED PYTHON"
+              "title": "22 June - Session 2"
             }
           },
           {
@@ -217,10 +217,13 @@
   },
   "active": "af321552e92b5f2e",
   "lastOpenFiles": [
+    "Advanced Python/ADVANCED PYTHON.md",
+    "Untitled.canvas",
+    "ML/22 June - Session 2.md",
+    "ML",
     "Roadmap/RoadMap.md",
     "GenAI/GenAI-Simplilearn.md",
     "GenAI",
-    "Advanced Python/ADVANCED PYTHON.md",
     "Advanced Python",
     "Welcome.md",
     "Roadmap"
