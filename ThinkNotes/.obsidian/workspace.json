@@ -11,10 +11,14 @@
             "id": "8a5cfac80656d333",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Generative AI"
             }
           },
           {
@@ -32,20 +36,6 @@
             }
           },
           {
-            "id": "2e3048ec7b757c98",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "ThinkNotes/.obsidian/workspace.json",
-                "bFile": "ThinkNotes/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
             "id": "38c8629c1ebfd8db",
             "type": "leaf",
             "state": {
@@ -59,8 +49,7 @@
               "title": "ADVANCED PYTHON"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e3048ec7b757c98",
+  "active": "8a5cfac80656d333",
   "lastOpenFiles": [
-    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "GenAI/GenAI-Contents.md",
+    "Advanced Python/ADVANCED PYTHON.md",
+    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "Assests/Pasted image 20250630003602.png",
     "ML/Contents.md",
     "ML/MLContents/Regression.md",
@@ -231,7 +221,6 @@
     "ML/22 June - Session 2.md",
     "ML/MLContents",
     "Untitled.canvas",
-    "Advanced Python/ADVANCED PYTHON.md",
     "ML",
     "GenAI",
     "Advanced Python",
