@@ -192,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-and-night:Toggle Theme": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,13 +204,13 @@
   },
   "active": "81d3ecd0b24dcd3f",
   "lastOpenFiles": [
+    "ML/MLContents/Regression.md",
     "ML/MLContents/Overfitting and Underfitting(Bias and Variance).md",
     "ML/Contents.md",
     "Roadmap/RoadMap.md",
     "ML/22 June - Session 2.md",
     "Pasted image 20250630003602.png",
     "Pasted image 20250630002548.png",
-    "ML/MLContents/Regression.md",
     "ML/MLContents",
     "Untitled.canvas",
     "Advanced Python/ADVANCED PYTHON.md",
