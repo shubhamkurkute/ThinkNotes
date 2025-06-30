@@ -2,7 +2,7 @@
 ## RoadMap for the AI Engineer.
 
 - [x] Datasciene: Simplilearn
-- [ ] [[GenAI-Simplilearn]]
+- [ ] [[GenAI-Contents]]
 - [ ] Machine Learning: Simplilearn
 - [ ] [[ADVANCED PYTHON]] 
 - [ ] Deep learning: Simplilearn

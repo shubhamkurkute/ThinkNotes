@@ -23,12 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLContents/Regression.md",
+                "file": "GenAI/GenAI-Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regression"
+              "title": "GenAI-Contents"
+            }
+          },
+          {
+            "id": "2e3048ec7b757c98",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "ThinkNotes/.obsidian/workspace.json",
+                "bFile": "ThinkNotes/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -46,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,20 +216,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81d3ecd0b24dcd3f",
+  "active": "2e3048ec7b757c98",
   "lastOpenFiles": [
-    "ML/MLContents/Regression.md",
-    "ML/MLContents/Overfitting and Underfitting(Bias and Variance).md",
+    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+    "GenAI/GenAI-Contents.md",
+    "Assests/Pasted image 20250630003602.png",
     "ML/Contents.md",
+    "ML/MLContents/Regression.md",
+    "Assests/Pasted image 20250630002548.png",
+    "Assests",
+    "GenAI/GenAI-Contents",
+    "ML/MLContents/Overfitting and Underfitting(Bias and Variance).md",
     "Roadmap/RoadMap.md",
     "ML/22 June - Session 2.md",
-    "Pasted image 20250630003602.png",
-    "Pasted image 20250630002548.png",
     "ML/MLContents",
     "Untitled.canvas",
     "Advanced Python/ADVANCED PYTHON.md",
     "ML",
-    "GenAI/GenAI-Simplilearn.md",
     "GenAI",
     "Advanced Python",
     "Welcome.md",
