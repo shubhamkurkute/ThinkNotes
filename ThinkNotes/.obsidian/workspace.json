@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAI/GenAI-Contents.md",
+                "file": "GenAI/GenAI-Contents/Introduction to Generative AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GenAI-Contents"
+              "title": "Introduction to Generative AI"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "0dda73b06f9cd832",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "GenAI/GenAI-Contents.md",
+    "conflict-files-obsidian-git.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "Advanced Python/ADVANCED PYTHON.md",
     "GenAI/GenAI-Simplilearn.md",
