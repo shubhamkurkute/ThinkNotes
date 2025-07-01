@@ -6,4 +6,4 @@
 - Traditional AI:
 	- It is the AI which predicts the target based on the features.
 - GenAI:
-	- It creates the new features based on the given target. This target is the prompt given to LLMs.
+	- It creates or generates the new features based on the given target. This target is the prompt given to LLMs.

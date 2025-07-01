@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +208,9 @@
   },
   "active": "0dda73b06f9cd832",
   "lastOpenFiles": [
-    "GenAI/GenAI-Contents.md",
     "conflict-files-obsidian-git.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+    "GenAI/GenAI-Contents.md",
     "Advanced Python/ADVANCED PYTHON.md",
     "GenAI/GenAI-Simplilearn.md",
     "GenAI/GenAI-Contents",
