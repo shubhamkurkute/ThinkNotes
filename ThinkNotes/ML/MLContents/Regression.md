@@ -1,3 +1,6 @@
+- When the target variable is continuous value, the prediction task is called as regression.
+- Ex. Predicting the temperature from a set input values like wing, humidity, etc.
+
 #### Types of Regression
 1. Linear Regression
 2. Non-Linear Regression
