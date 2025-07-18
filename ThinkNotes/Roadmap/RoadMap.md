@@ -3,7 +3,7 @@
 
 - [x] Datasciene: Simplilearn
 - [x] [[GenAI-Contents]]
-- [ ] [[MLContents]]
+- [ ] [[MLContents]] ()
 - [ ] [[ADVANCED PYTHON]] 
 - [ ] Deep learning: Simplilearn
 - [ ] Flask: https://flask.palletsprojects.com/en/stable/, https://www.youtube.com/watch?v=oQ5UfJqW5Jo&t=68s
