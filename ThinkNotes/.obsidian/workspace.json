@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
+                "file": "ML/MLContents/Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overfitting and Underfitting (Bias and Variance)"
+              "title": "Regression"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "12fc6322f15654e1",
@@ -178,11 +179,11 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "962be83d4953b94e",
+  "active": "c2db17918ca9dc84",
   "lastOpenFiles": [
+    "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
     "ML/MLContents.md",
     "Roadmap/RoadMap.md",
-    "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
     "ML/MLContents/Regression.md",
     "GenAI/GenAI-Contents.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",

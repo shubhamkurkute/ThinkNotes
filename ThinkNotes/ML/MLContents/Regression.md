@@ -37,4 +37,83 @@
 - It is used to increase the accuracy. Considering linear regression which works on straight line, it fails to cover all the datapoints and hence the curve is introduced i.e. degree is changed to more than 1.
 - Provides the best approximation between the independent and dependent variable.
 - ![[Pasted image 20250630003602.png]]
--
+
+##### Model  Evaluation and Validation Techniques
+###### Performance Metrics
+- In regression, evaluation metrics gives the quantitative measure of models performance, which helps in assessing and selection of the model.
+
+1. **Mean Squared  Error**
+	- It calculates the average of squares of the errors. Errors is the difference between the actual values and the predicted values.
+	- A lower value of the MSE suggest a better model performance.
+	- $$ MSE =  \frac{\sum_{i=1}^n {(y_{i} - \hat{y_i})}^2}{n}
+
+$$
+
+where,
+
+$$
+
+\hat{y_i} =  \beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}
+
+$$
+
+or We can rewrite :
+
+$$
+
+MSE =   \frac{\sum_{i=1}^n {(y_{i} - (\beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}))}^2}{n}
+
+$$
+
+where
+
+- $n$ is the number of observations
+
+- $p$ is the number of input features
+
+- $x$ is input feature values
+
+- $y$ is actual output
+
+- $\hat{y}$ is predicted output
+
+- $\beta_0$ is Intercept of best fit  line
+
+- $\beta_j$ is Coefficient of Regression for the $j^{th}$ feature
+
+2. **Root Mean Squared Error**
+	- As the MSE is hard to interpret in real world data due to square.
+	- Hence RMSE is the square root of RMSE, providing measure of the average magnitude of the errors in the predicted values.
+	- Since the square root operation reverses the squaring operation MSE, RMSE ends up having same units as the original target variables.
+	- Mathematically
+		- $$
+
+RMSE =   \sqrt{\frac{\sum_{i=1}^n {(y_{i} - (\beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}))}^2}{n}}
+
+$$
+
+where
+
+- $n$ is the number of observations
+
+- $p$ is the number of input features
+
+- $x$ is input feature values
+
+- $y$ is actual output
+
+- $\beta_0$ is Intercept of best fit line
+
+- $\beta_j$ is Coefficient of Regression for the $j^{th}$ feature
+
+3. **Absolute Mean Error**
+	- MAE calculates the average of the absolute errors between actual and predicted values. It is less sensitive to outliers as compared MSE and RMSE.
+	- Mathematically:
+	- $$
+
+MAE =   \frac{\sum_{i=1}^n |(y_{i} - (\beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}))|}{n}
+
+$$
+
+4. **R - Squared**
+	- 
