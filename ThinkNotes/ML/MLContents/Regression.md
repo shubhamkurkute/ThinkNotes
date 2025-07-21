@@ -116,4 +116,41 @@ MAE =   \frac{\sum_{i=1}^n |(y_{i} - (\beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}
 $$
 
 4. **R - Squared**
-	- 
+	- R - squared explains how much variation of the dependent variable 'y' can be attributed to change on independent variable 'x'. R squared value ranges between 0 and 1.
+	- **"0" :** This indicates that the model explains none of the variance in the dependent variable. The independent variable has no explanatory powers for the changes in target variable.
+	- **"1":** This represents a perfect fit. The model explains all of the variance in the dependent variable. The changes in the 'y' are perfectly captured by the changes in 'x'.
+	- While a higher R2 Score generally suggest that a model is a better fit, but it needs to be considered along with other metrics like MSE, RMSE or MAE
+	- Mathematically:
+$$
+
+\text{R-Squared (r2 score)} =  1 - \frac{\text{RSS}}{\text{TSS}}
+
+$$
+
+where
+
+$$
+
+\text{RSS or SSR or Residual Sum of Squares} =  \sum_{i=1}^n {(y_{i} - (\beta_{0} + \sum_{j=1}^{p} \beta_{j}x_{j}))}^2
+
+$$
+
+$$
+
+\text{TSS or SST or Total Sum of Squares} =  \sum_{i=1}^n {(y_{i} - \overline{y})}^2
+
+$$
+
+where
+
+- $n$ is the number of observations
+
+- $p$ is the number of input features
+
+- $x$ is input feature values
+
+- $y$ is actual output
+
+- $\hat{y}$ is predicted output
+
+- $\overline{y}$ is mean of the target variable
