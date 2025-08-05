@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLContents/Cross Validation.md",
+                "file": "ML/MLContents/Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Validation"
+              "title": "Classification"
             }
           }
         ]
@@ -180,14 +180,24 @@
   },
   "active": "c2db17918ca9dc84",
   "lastOpenFiles": [
-    "ML/MLContents.md",
-    "ML/MLContents/Cross Validation.md",
-    "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
     "ML/MLContents/Regression.md",
+    "ML/MLContents/Regularization.md",
+    "ML/MLContents/Classification.md",
+    "ML/MLContents.md",
+    "ML/MLContents/HyperParameter Tuning.md",
+    "ML/MLContents/Pipelines.md",
+    "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
+    "ML/MLContents/Cross Validation.md",
+    "Advanced Python/ADVANCED PYTHON.md",
     "Roadmap/RoadMap.md",
+    "Advanced Python/Contents/Abstraction.md",
+    "Advanced Python/Contents/Polymorphism.md",
+    "Advanced Python/Contents/Inheritance.md",
+    "Advanced Python/Contents/Encapsulation.md",
+    "Advanced Python/Contents/Classes and Objects.md",
+    "Advanced Python/Contents",
     "GenAI/GenAI-Contents.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",
-    "Advanced Python/ADVANCED PYTHON.md",
     "GenAI/GenAI-Contents/Large Language Models.md",
     "GenAI/GenAI-Contents/RAG.md",
     "Assests/Pasted image 20250706140428.png",
