@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/RoadMap.md",
+                "file": "ML/MLContents/Classification/Imbalanced Classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RoadMap"
+              "title": "Imbalanced Classification"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "c2db17918ca9dc84",
   "lastOpenFiles": [
-    "Advanced Python/ADVANCED PYTHON.md",
+    "ML/MLContents/Classification/Support Vector Machine.md",
+    "ML/MLContents/Classification/Imbalanced Classification.md",
     "ML/MLContents.md",
+    "Roadmap/RoadMap.md",
+    "Advanced Python/ADVANCED PYTHON.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "GenAI/GenAI-Contents/Large Language Models.md",
     "GenAI/GenAI-Contents/RAG.md",
@@ -190,7 +193,6 @@
     "Advanced Python/Contents/Encapsulation.md",
     "Advanced Python/Contents/Classes and Objects.md",
     "Advanced Python/Contents/Abstraction.md",
-    "ML/MLContents/Classification/Support Vector Machine.md",
     "ML/MLContents/Classification/Decision Trees.md",
     "ML/MLContents/Classification/Classification.md",
     "ML/MLContents/Classification/K Nearest Neighbours.md",
@@ -203,7 +205,6 @@
     "ML/MLContents/Regression/Regularization.md",
     "ML/MLContents/Classification",
     "ML/MLContents/Classification/Naive Bayes Classifier.md",
-    "Roadmap/RoadMap.md",
     "Advanced Python/Contents",
     "GenAI/GenAI-Contents.md",
     "Assests/Pasted image 20250706140428.png",
@@ -212,7 +213,6 @@
     "Untitled 1.canvas",
     "2025-07-01.md",
     "conflict-files-obsidian-git.md",
-    "GenAI/GenAI-Simplilearn.md",
     "GenAI/GenAI-Contents",
     "Assests/Pasted image 20250630003602.png",
     "Assests/Pasted image 20250630002548.png",
