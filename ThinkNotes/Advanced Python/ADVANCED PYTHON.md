@@ -3,9 +3,9 @@
 
 # Contents
 
-- [ ] [[Classes and Objects]]
-- [ ] [[Inheritance]]
-- [ ] [[Encapsulation]]
-- [ ] [[Polymorphism]]
-- [ ] [[Abstraction]]
+- [x] [[Classes and Objects]]
+- [x] [[Inheritance]]
+- [x] [[Encapsulation]]
+- [x] [[Polymorphism]]
+- [x] [[Abstraction]]
 - [ ] 

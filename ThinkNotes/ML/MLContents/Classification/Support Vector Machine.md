@@ -1,0 +1,8 @@
+- It is a supervised ML algorithm used for both classification and regression challenges. It is mainly utilised for the classification-related problems.
+- In SVM the required straight line to fit the data is called hyperplane.
+- The goal of the Support Vector Machine algorithm is to find a hyperplane in an n-dimensional space that distinctly classifies the data points.
+- The closest data points to the hyperplane on either side are called Support Vectors
+- These support vectors influence the position and orientation of the hyperplane, aiding in the construction of the SVM.
+- **There are two types of support vector machines**
+	- **Linear SVM:** Separates the data in linear format. If the data set is separated into two using a straight line, the data is linearly separable.
+	- **NonLinear SVM:** Is used when data is non-linearly separated. If the dataset cannot be separated into two using a straight line, the data is nonlinear.

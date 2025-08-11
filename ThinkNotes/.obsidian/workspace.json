@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/MLContents/Classification.md",
+                "file": "Roadmap/RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification"
+              "title": "RoadMap"
             }
           }
         ]
@@ -68,7 +68,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,26 +180,32 @@
   },
   "active": "c2db17918ca9dc84",
   "lastOpenFiles": [
-    "ML/MLContents/Regression.md",
-    "ML/MLContents/Regularization.md",
-    "ML/MLContents/Classification.md",
-    "ML/MLContents.md",
-    "ML/MLContents/HyperParameter Tuning.md",
-    "ML/MLContents/Pipelines.md",
-    "ML/MLContents/Overfitting and Underfitting (Bias and Variance).md",
-    "ML/MLContents/Cross Validation.md",
     "Advanced Python/ADVANCED PYTHON.md",
-    "Roadmap/RoadMap.md",
-    "Advanced Python/Contents/Abstraction.md",
+    "ML/MLContents.md",
+    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+    "GenAI/GenAI-Contents/Large Language Models.md",
+    "GenAI/GenAI-Contents/RAG.md",
     "Advanced Python/Contents/Polymorphism.md",
     "Advanced Python/Contents/Inheritance.md",
     "Advanced Python/Contents/Encapsulation.md",
     "Advanced Python/Contents/Classes and Objects.md",
+    "Advanced Python/Contents/Abstraction.md",
+    "ML/MLContents/Classification/Support Vector Machine.md",
+    "ML/MLContents/Classification/Decision Trees.md",
+    "ML/MLContents/Classification/Classification.md",
+    "ML/MLContents/Classification/K Nearest Neighbours.md",
+    "ML/MLContents/Regression/Cross Validation.md",
+    "ML/MLContents/Regression",
+    "ML/MLContents/Regression/HyperParameter Tuning.md",
+    "ML/MLContents/Regression/Overfitting and Underfitting (Bias and Variance).md",
+    "ML/MLContents/Regression/Pipelines.md",
+    "ML/MLContents/Regression/Regression.md",
+    "ML/MLContents/Regression/Regularization.md",
+    "ML/MLContents/Classification",
+    "ML/MLContents/Classification/Naive Bayes Classifier.md",
+    "Roadmap/RoadMap.md",
     "Advanced Python/Contents",
     "GenAI/GenAI-Contents.md",
-    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
-    "GenAI/GenAI-Contents/Large Language Models.md",
-    "GenAI/GenAI-Contents/RAG.md",
     "Assests/Pasted image 20250706140428.png",
     "Assests/Pasted image 20250706134552.png",
     "Untitled.canvas",
@@ -217,7 +223,6 @@
     "ML",
     "GenAI",
     "Advanced Python",
-    "Welcome.md",
     "Roadmap"
   ]
 }

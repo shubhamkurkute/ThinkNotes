@@ -5,4 +5,9 @@
 4. [[Regularization]]
 5. [[HyperParameter Tuning]]
 6. [[Pipelines]]
-7. 
+7. [[Classification]]
+8. [[Naive Bayes Classifier]]
+9. [[K Nearest Neighbours]]
+10. [[Decision Trees]]
+11. [[Support Vector Machine]]
+12. 
