@@ -8,4 +8,5 @@
 - [x] [[Encapsulation]]
 - [x] [[Polymorphism]]
 - [x] [[Abstraction]]
+- [ ] [[Memory Management]]
 - [ ] 
