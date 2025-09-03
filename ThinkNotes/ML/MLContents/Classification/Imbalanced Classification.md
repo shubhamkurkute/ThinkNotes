@@ -53,3 +53,13 @@ It is the simplest form of undersampling, where majority class samples are rando
 **Disadvantages of Random Undersampling:**
 - **Loss of information:** Removing samples from the majority class can lead to loss of important information.
 - **Overfitting:** The model might overfit to the remaining data, especially if the dataset is small.
+
+#### Ensemble methods for Imbalanced Data
+
+##### Balanced Random Forest
+It is ensembling learning method designed to handle class imbalance in classification. It modifies the standard Random forest algorithm to address the imbalance issue by combining random undersampling of the majority class with power of ensembling.
+
+**How Balanced Random Forest Works**
+1. **Sampling**: In each iteration, instead of using the entire majority class, BRF randomly samples a subset of the majority class that is equal in size to the minority class. This creates a balanced subset of the data for training each tree.
+2. **Tree Construction**: A decision tree is trained on this balanced subset. Each tree in the forest is built using a different balanced subset of the data.
+3. **Ensemble Learning**: The final model is an ensemble of these trees. Predictions are made by averaging the predictions of all trees or by majority vote.

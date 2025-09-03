@@ -83,7 +83,7 @@ where
 
 2. **Root Mean Squared Error**
 	- As the MSE is hard to interpret in real world data due to square.
-	- Hence RMSE is the square root of RMSE, providing measure of the average magnitude of the errors in the predicted values.
+	- Hence RMSE is the square root of MSE, providing measure of the average magnitude of the errors in the predicted values.
 	- Since the square root operation reverses the squaring operation MSE, RMSE ends up having same units as the original target variables.
 	- Mathematically
 		- $$

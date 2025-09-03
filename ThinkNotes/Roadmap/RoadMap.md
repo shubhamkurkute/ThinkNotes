@@ -3,8 +3,8 @@
 
 - [x] Datasciene: Simplilearn
 - [x] [[GenAI-Contents]]
-- [ ] [[MLContents]] (16 August)
-- [ ] [[ADVANCED PYTHON]] (14 August) Parallel to ML
+- [x] [[MLContents]] (17 August)
+- [ ] [[ADVANCED PYTHON]] (14 August) 
 - [ ] Deep learning: Simplilearn
 - [ ] Flask: https://flask.palletsprojects.com/en/stable/, https://www.youtube.com/watch?v=oQ5UfJqW5Jo&t=68s
 - [ ] NLP: Simplilearn

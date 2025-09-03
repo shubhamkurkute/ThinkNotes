@@ -10,4 +10,6 @@
 9. [[K Nearest Neighbours]]
 10. [[Decision Trees]]
 11. [[Support Vector Machine]]
-12. 
+12. [[Imbalanced Classification]]
+13. [[Introduction to Ensemble Learning]]
+14. [[Advanced Technique Bagging]]

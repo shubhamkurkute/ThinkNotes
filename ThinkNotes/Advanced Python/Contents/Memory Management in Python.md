@@ -1,0 +1,2 @@
+- Memory management refers to process of allocating and deallocating memory to a program while it runs.
+- Python handles memory management automatically using mechanisms like reference counting and garbage collection
