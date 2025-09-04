@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAI/GenAI-Contents/Large Language Models.md",
+                "file": "Advanced Python/Contents/Polymorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Large Language Models"
+              "title": "Polymorphism"
             }
           }
         ],
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "12fc6322f15654e1",
@@ -195,16 +194,18 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "962be83d4953b94e",
+  "active": "089c51267eba65f0",
   "lastOpenFiles": [
+    "Advanced Python/Contents/Memory Management.md",
+    "Advanced Python/Contents/Memory Management in Python.md",
+    "GenAI/GenAI-Contents/Large Language Models.md",
     "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Stacking.md",
     "ML/MLContents/Ensemble Learning/Advanced Technique Bagging.md",
     "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Boosting.md",
-    "Pasted image 20250904121907.png",
-    "Pasted image 20250904121002.png",
-    "Pasted image 20250904120528.png",
+    "Assests/Pasted image 20250904121907.png",
+    "Assests/Pasted image 20250904121002.png",
+    "Assests/Pasted image 20250904120528.png",
     "ML/MLContents.md",
-    "Advanced Python/Contents/Memory Management.md",
     "ML/MLContents/Ensemble Learning/Introduction to Ensemble Learning.md",
     "Assests/Pasted image 20250904000916.png",
     "Assests/Pasted image 20250904000516.png",
@@ -213,7 +214,6 @@
     "ML/MLContents/Classification/Support Vector Machine.md",
     "ML/MLContents/Classification/Classification.md",
     "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
-    "GenAI/GenAI-Contents/Large Language Models.md",
     "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "GenAI/GenAI-Contents/AI Agent.md",
     "GenAI/GenAI-Contents/Agentic AI.md",
@@ -224,7 +224,6 @@
     "Advanced Python/Contents/Abstraction.md",
     "Advanced Python/Contents/Polymorphism.md",
     "Advanced Python/Contents/Inheritance.md",
-    "Advanced Python/Contents/Memory Management in Python.md",
     "Advanced Python/Contents/Encapsulation.md",
     "GenAI/GenAI-Contents.md",
     "GenAI/Purdue/AI Literacy.md",
