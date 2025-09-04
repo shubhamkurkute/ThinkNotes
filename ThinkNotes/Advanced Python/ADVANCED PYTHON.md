@@ -8,4 +8,9 @@
 - [x] [[Encapsulation]]
 - [x] [[Polymorphism]]
 - [x] [[Abstraction]]
+<<<<<<< HEAD
 - [ ] [[Memory Management in Python]]
+=======
+- [ ] [[Memory Management]]
+- [ ] 
+>>>>>>> origin/main
