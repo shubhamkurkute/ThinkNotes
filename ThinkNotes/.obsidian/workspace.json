@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Python/Contents/Polymorphism.md",
+                "file": "FastAPI/Path Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polymorphism"
+              "title": "Path Parameters"
             }
           }
         ],
@@ -196,6 +196,12 @@
   },
   "active": "089c51267eba65f0",
   "lastOpenFiles": [
+    "Advanced Python/Contents/Classes and Objects.md",
+    "FastAPI/Path Parameters.md",
+    "FastAPI/Introduction to FastAPI.md",
+    "FastAPI/Concurrency, async and await.md",
+    "Advanced Python/Contents/Polymorphism.md",
+    "FastAPI",
     "Advanced Python/Contents/Memory Management.md",
     "Advanced Python/Contents/Memory Management in Python.md",
     "GenAI/GenAI-Contents/Large Language Models.md",
@@ -220,15 +226,10 @@
     "Assests/0_pCXbmsuSzAWoja5c.webp",
     "GenAI/GenAI-Contents/RAG.md",
     "Advanced Python/ADVANCED PYTHON.md",
-    "Advanced Python/Contents/Classes and Objects.md",
     "Advanced Python/Contents/Abstraction.md",
-    "Advanced Python/Contents/Polymorphism.md",
     "Advanced Python/Contents/Inheritance.md",
     "Advanced Python/Contents/Encapsulation.md",
     "GenAI/GenAI-Contents.md",
-    "GenAI/Purdue/AI Literacy.md",
-    "ML/MLContents/Regression/Cross Validation.md",
-    "ML/MLContents/Regression/Pipelines.md",
     "GenAI/Purdue",
     "ML/MLContents/Regression",
     "ML/MLContents/Classification",
@@ -242,7 +243,6 @@
     "Assests/Pasted image 20250630002548.png",
     "Assests",
     "ML/MLContents",
-    "ML",
-    "GenAI"
+    "ML"
   ]
 }
