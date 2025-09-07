@@ -25,3 +25,17 @@ async def read_item(item_id):
 - This is done inorder to avoid error. As the "specific user" can match for the "current user", thinking that its receiving parameter "me" as "user_id" which will further give error as the "user_id" need *integer* and "me" is a *string*
 
 #### Predefined Values
+If you have a path operation that receives a path parameter, but you want the possible valid path parameter values to be predefined, you can use standard Python Enum.
+
+This is done to define a predefined path means to already define the path and execute and return response associated with it.
+
+#### Path parameters containing path
+If inside the path parameter there is parameter which itself has a path as a value.
+ex: path = `/files/{file_path}`
+file path = `home/johndoe/myfile.txt`
+hence full path becomes = `/files/home/johndoe/myfile.txt`
+This is not supported by the OpenAPI to declare the path parametert to contain a path inside, as that could lead to scenarios that are difficult to test and define.
+
+For this we use **Path Converter**
+In the above case, the name of the parameter is `file_path`, and the last part, `:path`, tells that the parameter should match any path.
+ex: `/files/{file_path:path}`

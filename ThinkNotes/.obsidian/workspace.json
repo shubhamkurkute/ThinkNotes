@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/Path Parameters.md",
+                "file": "FastAPI/Query parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Path Parameters"
+              "title": "Query parameters"
             }
           }
         ],
@@ -196,8 +196,9 @@
   },
   "active": "089c51267eba65f0",
   "lastOpenFiles": [
-    "Advanced Python/Contents/Classes and Objects.md",
     "FastAPI/Path Parameters.md",
+    "FastAPI/Query parameters.md",
+    "Advanced Python/Contents/Classes and Objects.md",
     "FastAPI/Introduction to FastAPI.md",
     "FastAPI/Concurrency, async and await.md",
     "Advanced Python/Contents/Polymorphism.md",
@@ -229,7 +230,6 @@
     "Advanced Python/Contents/Abstraction.md",
     "Advanced Python/Contents/Inheritance.md",
     "Advanced Python/Contents/Encapsulation.md",
-    "GenAI/GenAI-Contents.md",
     "GenAI/Purdue",
     "ML/MLContents/Regression",
     "ML/MLContents/Classification",
