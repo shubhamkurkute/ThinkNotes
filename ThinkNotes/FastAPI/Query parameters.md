@@ -1,4 +1,4 @@
-When you declare other function parameters that are not the part of the path parameters, they are automatically interpreted as "query" parameters. This means the parameter of the path operation function are not in operation path then the parameters of the function are called as query parameters.
+sWhen you declare other function parameters that are not the part of the path parameters, they are automatically interpreted as "query" parameters. This means the parameter of the path operation function are not in operation path then the parameters of the function are called as query parameters.
 
 The query is set of key value pairs that go after the `?` in a URL, separated by `&` characters.
 For Example in URL:

@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Python/ADVANCED PYTHON.md",
+                "file": "FastAPI/Request Body.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADVANCED PYTHON"
+              "title": "Request Body"
             }
           },
           {
-            "id": "089c51267eba65f0",
+            "id": "dcf3a4e270902232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/Query parameters.md",
+                "file": "FastAPI/Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query parameters"
+              "title": "Contents"
             }
           }
         ],
@@ -194,21 +194,31 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "089c51267eba65f0",
+  "active": "dcf3a4e270902232",
   "lastOpenFiles": [
+    "FastAPI/Path Parameters and Numeric Validations.md",
+    "FastAPI/Query Parameters and String Validations.md",
+    "FastAPI/Contents.md",
+    "Roadmap/RoadMap.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "FastAPI/Request Body.md",
     "FastAPI/Path Parameters.md",
     "FastAPI/Query parameters.md",
-    "Advanced Python/Contents/Classes and Objects.md",
-    "FastAPI/Introduction to FastAPI.md",
     "FastAPI/Concurrency, async and await.md",
+    "FastAPI/Introduction to FastAPI.md",
+    "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Boosting.md",
+    "ML/MLContents/Ensemble Learning/Advanced Technique Bagging.md",
+    "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Stacking.md",
+    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+    "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
+    "GenAI/GenAI-Contents/Large Language Models.md",
+    "Advanced Python/ADVANCED PYTHON.md",
+    "Advanced Python/Contents/Classes and Objects.md",
     "Advanced Python/Contents/Polymorphism.md",
     "FastAPI",
     "Advanced Python/Contents/Memory Management.md",
     "Advanced Python/Contents/Memory Management in Python.md",
-    "GenAI/GenAI-Contents/Large Language Models.md",
-    "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Stacking.md",
-    "ML/MLContents/Ensemble Learning/Advanced Technique Bagging.md",
-    "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Boosting.md",
     "Assests/Pasted image 20250904121907.png",
     "Assests/Pasted image 20250904121002.png",
     "Assests/Pasted image 20250904120528.png",
@@ -220,16 +230,8 @@
     "ML/MLContents/Ensemble Learning",
     "ML/MLContents/Classification/Support Vector Machine.md",
     "ML/MLContents/Classification/Classification.md",
-    "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
-    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
     "GenAI/GenAI-Contents/AI Agent.md",
-    "GenAI/GenAI-Contents/Agentic AI.md",
     "Assests/0_pCXbmsuSzAWoja5c.webp",
-    "GenAI/GenAI-Contents/RAG.md",
-    "Advanced Python/ADVANCED PYTHON.md",
-    "Advanced Python/Contents/Abstraction.md",
-    "Advanced Python/Contents/Inheritance.md",
-    "Advanced Python/Contents/Encapsulation.md",
     "GenAI/Purdue",
     "ML/MLContents/Regression",
     "ML/MLContents/Classification",
@@ -241,8 +243,6 @@
     "GenAI/GenAI-Contents",
     "Assests/Pasted image 20250630003602.png",
     "Assests/Pasted image 20250630002548.png",
-    "Assests",
-    "ML/MLContents",
-    "ML"
+    "Assests"
   ]
 }
