@@ -4,7 +4,7 @@
 - [x] Datasciene: Simplilearn
 - [x] [[GenAI-Contents]]
 - [x] [[MLContents]] 
-- [ ] [[ADVANCED PYTHON]] (14 August) 
+- [x] [[ADVANCED PYTHON]] 
 - [ ] Deep learning: Simplilearn
 - [ ] NLP: Simplilearn
 - [ ] System Design: https://www.youtube.com/watch?v=lFeYU31TnQ8
