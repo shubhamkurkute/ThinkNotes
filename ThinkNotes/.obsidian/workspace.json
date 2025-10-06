@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Contents/Perceptron (Lecture 2).md",
+                "file": "Roadmap/RoadMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perceptron (Lecture 2)"
+              "title": "RoadMap"
             }
           }
         ],
@@ -196,9 +196,18 @@
   },
   "active": "0b765965d9e24a25",
   "lastOpenFiles": [
-    "Pasted image 20250926001717.png",
-    "Deep Learning/Contents.md",
+    "FastAPI/Contents/Security.md",
+    "FastAPI/Contents/Dependency.md",
+    "ML/MLContents/Regression/HyperParameter Tuning.md",
+    "GenAI/MCP",
+    "ML/MLContents/Regression/Overfitting and Underfitting (Bias and Variance).md",
+    "ML/MLContents/Regression/Regularization.md",
+    "ML/MLContents/Regression/Regression.md",
+    "ML/MLContents.md",
+    "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
     "Deep Learning/Contents/Perceptron (Lecture 2).md",
+    "Assests/Pasted image 20250926001717.png",
+    "Deep Learning/Contents.md",
     "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
     "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
     "FastAPI/Contents/Query parameters.md",
@@ -222,13 +231,6 @@
     "FastAPI/Contents/Cookie Parameters and Cookie Parameter models.md",
     "FastAPI/Contents/Extra Datatypes.md",
     "FastAPI/Contents/Body-Fields.md",
-    "FastAPI/Contents/Body - Multiple Parameters.md",
-    "FastAPI/Contents/Request Body.md",
-    "FastAPI/Contents/Path Parameters and Numeric Validations.md",
-    "Roadmap/RoadMap.md",
-    "FastAPI/Contents/Path Parameters.md",
-    "FastAPI/Contents/Concurrency, async and await.md",
-    "ML/MLContents/Ensemble Learning/Advanced Ensemble Technique Boosting.md",
     "FastAPI",
     "Assests/Pasted image 20250904121907.png",
     "Assests/Pasted image 20250904121002.png",
@@ -240,8 +242,6 @@
     "GenAI/Purdue",
     "ML/MLContents/Regression",
     "ML/MLContents/Classification",
-    "Advanced Python/Contents",
-    "Assests/Pasted image 20250706140428.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
