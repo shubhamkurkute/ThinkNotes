@@ -24,3 +24,10 @@ Prompt is the instructions given to LLM to perform a particular task and to get 
 	- **Max Length** – limits how _long_ the response can go.
 	- **Frequency Penalty:** It penalizes the tokens based on their frequency in the prompt and response, thereby enhaning the diversity of the language used
 	- **Presence Penalty:** Implement this penalty to prevent repeated tokens, irrespective of theri frequency, promoting original and varied outpurs from the model.
+
+## Prompting Techniques (Part 1)
+
+1. **Zero Shot Prompting**: Zero shot means no example provided and the response is expected in single request.
+	- This technique is used when the prompt is based on the data on which the model is trained.
+2. **Few Shot Prompting**: In few shot prompting one or more examples are given in order to guide the LLM for the desired response. 
+	- For ex: LLM is trained for text or language understanding,for solving mathematical equations you need to make LLM understand certain mathematical examples with the examples.
