@@ -11,7 +11,7 @@
 	- It is like breaking the task in small sub-tasks and choosing the best possible solution among it.
 
 
-## Langchain Framework
+## Langchain Framework (Part 1)
 
 #### Prompt Templates
 - Prompt templates serve as recipes for language models, offerring a predefined structure ti guide the model's output.
@@ -19,3 +19,4 @@
 #### Chat Prompt Template
 - Chat models interact with users through a series of chat messages.
 - Each message has content and is associated with a role, such as an AI assistant, a human or a system.
+
