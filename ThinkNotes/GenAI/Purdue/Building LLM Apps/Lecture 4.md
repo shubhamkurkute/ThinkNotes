@@ -42,7 +42,8 @@
 
 ## Langchain Memory
 There are several type of memery:
-1. **Conversation Buffer Window Memory:** This memory has a context window to store the no. of past conversation it should save or remember.
+1. **ConversationBufferMemory:** It keeps the full chat history from the start - nothing is forgotten.
+2. **Conversation Buffer Window Memory:** This memory has a context window to store the no. of past conversation it should save or remember.
 	- Stores the last N interactions user + AI interactions in a rolling window.
-2. **Conversation entity memory:** Extracts and tracks named entities (like people, places or products) mentioned during the chat
-3. **Conversation summary memory:** This memory summarizes the past interaction or the messages recursively with the help of another LLM. Can be used to reduce the token size by replacing the long histories with a concise summary.
+3. **Conversation entity memory:** Extracts and tracks named entities (like people, places or products) mentioned during the chat
+4. **Conversation summary memory:** This memory summarizes the past interaction or the messages recursively with the help of another LLM. Can be used to reduce the token size by replacing the long histories with a concise summary.

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01000e6710d25e9d",
+        "id": "ed33b2f5c254f37d",
         "type": "tabs",
         "children": [
           {
-            "id": "aed6b56a96510e80",
+            "id": "6b4e3c203da49490",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ThinkNotes/GenAI/Purdue/Building LLM Apps/Lecture 4.md",
-                "bFile": "ThinkNotes/GenAI/Purdue/Building LLM Apps/Lecture 4.md",
-                "aRef": ""
+                "file": "GenAI/Purdue/Building LLM Apps/Lecture 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Lecture 4"
+              "icon": "lucide-file",
+              "title": "Lecture 5"
             }
           }
         ]
@@ -179,14 +179,25 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "aed6b56a96510e80",
+  "active": "6b4e3c203da49490",
   "lastOpenFiles": [
     "GenAI/Purdue/Building LLM Apps/Lecture 4.md",
+    "GenAI/Purdue/Building LLM Apps/Lecture 5.md",
+    "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
+    "GenAI/GenAI-Contents.md",
+    "GenAI/Purdue/AI Literacy.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 3.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 2.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 1.md",
-    "GenAI/Purdue/Building LLM Apps",
+    "GenAI/GenAI-Contents/RAG.md",
+    "GenAI/GenAI-Contents/Large Language Models.md",
+    "GenAI/GenAI-Contents/Introduction to Generative AI.md",
+    "GenAI/GenAI-Contents/How LLM Works.md",
     "GenAI/GenAI-Contents/GraphRAG.md",
+    "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
+    "GenAI/GenAI-Contents/AI Agent.md",
+    "GenAI/GenAI-Contents/Agentic AI.md",
+    "GenAI/Purdue/Building LLM Apps",
     "FastAPI/Contents/Middleware.md",
     "FastAPI/Contents/Security.md",
     "Roadmap/RoadMap.md",
@@ -198,18 +209,7 @@
     "ML/MLContents/Regression/Overfitting and Underfitting (Bias and Variance).md",
     "ML/MLContents/Regression/Regularization.md",
     "ML/MLContents/Regression/Regression.md",
-    "ML/MLContents.md",
-    "GenAI/GenAI-Contents/Fine Tuning LLM Models.md",
-    "Deep Learning/Contents/Perceptron (Lecture 2).md",
     "Assests/Pasted image 20250926001717.png",
-    "Deep Learning/Contents.md",
-    "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
-    "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
-    "FastAPI/Contents/Query parameters.md",
-    "FastAPI/Contents/Request Files.md",
-    "FastAPI/Contents/Query Parameter Models.md",
-    "FastAPI/Contents.md",
-    "FastAPI/Contents/Introduction to FastAPI.md",
     "Untitled 1.base",
     "Assests/Pasted image 20250920022055.png",
     "Assests/Pasted image 20250920022143.png",
