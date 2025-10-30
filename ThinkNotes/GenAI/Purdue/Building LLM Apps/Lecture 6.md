@@ -15,4 +15,3 @@
 	- **Tools and techniques:** Automation tools to enhance the data.
 - Offline tuning: Trained before the usage of the LLM 
 - Online tuning: Continous adaption make possible to model learn after deployment onto the production.
-- 
