@@ -30,4 +30,19 @@
 - Hyperparameter adjusting is essential when fine-tuning language models for optimal performance.
 - These parameters are set before the model learns, helping to shape its performance.
 
-#### Evaluation of Fine Tuning
+### LLM Fine-Tuning Frameworks
+1. **HuggingFace Accelerate:**
+	- Popular library for model-parallel training and inference, which can be used in conjuction with DeepSpeed for fine-tuning LLMs.
+	- It provides an efficient and scalable solution for training and deploying large-scale models
+	- It helps to train large models faster and across multiple GPUs or TPUs
+2. **HuggingFace Transformer:** 
+	- It offers comprehensive framework for fine-tuning LLMs, including suppport for LoRA and other parameter-efficient fine-tuning techniques.
+	- The platform provides pretrained models, datasets, and tools for fine-tuning, making it easy for developers to adapt models to specific tasks.
+	- Provides ready to use tokenizers and APIs for fine tuning any transformer model.
+3. **Deepspeed**:
+	- It is a high-performance computing library that can be used for distributed training and model-parallel training, which is particularly useful for fine-tuning large models like Code Llama.
+	- It integrates well with HuggingFace's Transformers library, allowing users to leverage its capabilities for fine-tuning
+4. **SuperAnotate:**
+	- It is platform that offers tools and services for fine-tuning LLMs, including data preparation, hyperparameter tuning, and model evaluation.
+	- It helps users optimize their models for specific tasks and domains, ensuring accurate and contexually relevant outputs.
+
