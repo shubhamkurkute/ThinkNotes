@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed33b2f5c254f37d",
+        "id": "3f9cec266b4f3594",
         "type": "tabs",
         "children": [
           {
-            "id": "6b4e3c203da49490",
+            "id": "d95ab0227cfe9c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,18 +179,18 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "6b4e3c203da49490",
+  "active": "d95ab0227cfe9c44",
   "lastOpenFiles": [
+    "Assests/Pasted image 20251030152307.png",
+    "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
     "Deep Learning/Contents/Perceptron (Lecture 2).md",
     "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
     "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
-    "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
     "Advanced DL and CV/Contents.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 8.md",
     "Advanced DL and CV/Contents",
     "Advanced DL and CV",
     "GenAI/Purdue/Building LLM Apps/Lecture 7.md",
-    "Pasted image 20251030152307.png",
     "GenAI/Purdue/Building LLM Apps/Lecture 6.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 5.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 4.md",
@@ -210,7 +210,6 @@
     "GenAI/Purdue/Building LLM Apps",
     "FastAPI/Contents/Middleware.md",
     "FastAPI/Contents/Security.md",
-    "Roadmap/RoadMap.md",
     "GenAI/MCP",
     "Assests/Pasted image 20250926001717.png",
     "Untitled 1.base",
