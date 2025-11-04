@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GenAI/Purdue/Building LLM Apps/Lecture 8.md",
+                "file": "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8"
+              "title": "Introduction to Computer Vision"
             }
           }
         ]
@@ -181,8 +181,15 @@
   },
   "active": "6b4e3c203da49490",
   "lastOpenFiles": [
-    "GenAI/Purdue/Building LLM Apps/Lecture 7.md",
+    "Deep Learning/Contents/Perceptron (Lecture 2).md",
+    "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
+    "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
+    "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
+    "Advanced DL and CV/Contents.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 8.md",
+    "Advanced DL and CV/Contents",
+    "Advanced DL and CV",
+    "GenAI/Purdue/Building LLM Apps/Lecture 7.md",
     "Pasted image 20251030152307.png",
     "GenAI/Purdue/Building LLM Apps/Lecture 6.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 5.md",
@@ -190,9 +197,6 @@
     "GenAI/Purdue/Building LLM Apps/Lecture 3.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 2.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 1.md",
-    "Deep Learning/Contents/Perceptron (Lecture 2).md",
-    "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
-    "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
     "GenAI/GenAI-Contents.md",
     "GenAI/Purdue/AI Literacy.md",
     "GenAI/GenAI-Contents/RAG.md",
@@ -207,8 +211,6 @@
     "FastAPI/Contents/Middleware.md",
     "FastAPI/Contents/Security.md",
     "Roadmap/RoadMap.md",
-    "FastAPI/Contents/Dependency.md",
-    "FastAPI/Contents/Cookie Parameters and Cookie Parameter models.md",
     "GenAI/MCP",
     "Assests/Pasted image 20250926001717.png",
     "Untitled 1.base",
@@ -225,8 +227,6 @@
     "Assests/Pasted image 20250904000916.png",
     "Assests/Pasted image 20250904000516.png",
     "ML/MLContents/Ensemble Learning",
-    "GenAI/Purdue",
-    "ML/MLContents/Regression",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
