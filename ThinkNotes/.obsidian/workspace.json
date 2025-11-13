@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
+                "file": "Advanced DL and CV/Contents/Introduction to OpenCV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Computer Vision"
+              "title": "Introduction to OpenCV"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "d95ab0227cfe9c44",
   "lastOpenFiles": [
-    "Assests/Pasted image 20251030152307.png",
+    "Advanced DL and CV/Contents.md",
+    "Advanced DL and CV/Contents/Introduction to OpenCV.md",
     "Advanced DL and CV/Contents/Introduction to Computer Vision.md",
+    "Assests/Pasted image 20251030152307.png",
     "Deep Learning/Contents/Perceptron (Lecture 2).md",
     "Deep Learning/Contents/Introduction to Deep Learning ( Lecture 1 ).md",
     "Deep Learning/Contents/Artificial Neural Network (Lecture 1).md",
-    "Advanced DL and CV/Contents.md",
     "GenAI/Purdue/Building LLM Apps/Lecture 8.md",
     "Advanced DL and CV/Contents",
     "Advanced DL and CV",
